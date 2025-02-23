@@ -6,7 +6,7 @@
 </p>
 
 
-<h3 align="center">개미처럼 꾸준히, 프론트엔드 개발자 윤미주입니다.</h1>
+<h3 align="center">프론트엔드 개발자 윤미주입니다.</h1>
 
 <h1 align="center">💎 SKILL</h1>
 <p align="center">
